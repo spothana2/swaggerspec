@@ -1,0 +1,19 @@
+{
+  "info": {
+    "version": "1.0", 
+    "title": "TestAPI4"
+  }, 
+  "paths": {
+    "/mapper task_2": {
+      "get": {
+        "responses": {
+          "200": {
+            "description": "OK", 
+          }
+        }, 
+       
+      }
+    }
+  }, 
+  "swagger": "2.0"
+}
